@@ -1,3 +1,5 @@
+[![MSeeP.ai Security Assessment Badge](https://mseep.net/pr/nzwi263-mcp-server-using-py-fastmcp-render-boilerplate-badge.png)](https://mseep.ai/app/nzwi263-mcp-server-using-py-fastmcp-render-boilerplate)
+
 # MCP Server using Python, FastMCP and Render Boilerplate
 
 A Model Context Protocol (MCP) server built with Python, FastMCP, designed to be deployed on Render.
